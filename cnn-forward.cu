@@ -1,7 +1,7 @@
 #include <cmath>
 #include <mma.h>
 #include <iostream>
-#include "gpu-new-forward.h"
+#include "cnn-forward.h"
 
 using namespace nvcuda;
 
