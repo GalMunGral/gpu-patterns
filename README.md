@@ -1,4 +1,4 @@
-#   CUDA Samples
+# GPU Patterns
 
 ## Rhetorical Design
 
