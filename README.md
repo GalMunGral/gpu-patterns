@@ -1,7 +1,5 @@
 #   CUDA Samples
 
-A collection of CUDA programs illustrating common GPU parallelism patterns.
-
 ## Rhetorical Design
 
 ### Purpose
